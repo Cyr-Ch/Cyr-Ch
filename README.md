@@ -23,9 +23,8 @@ Currently building intelligent optimization models for **microgrids** and **ener
 ---
 
 ### 🧠 Academic Profiles
-- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/)  
-- [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyrine_Chaabani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/...)  
+- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=83VPeJcAAAAJ)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyrine_Chaabani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrinechaabani/)  
 - [🌐 Personal Website](https://wattzo.org)  
 
 ---
