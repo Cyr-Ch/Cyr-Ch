@@ -7,9 +7,8 @@ Currently building intelligent optimization models for **microgrids** and **ener
 
 ### 🧩 Research Interests
 - **Decision Intelligence & Reinforcement Learning** – Adaptive agents for real-world decision-making  
-- **Time-Series Forecasting** – Robust ML for renewable and energy systems  
+- **Time-Series Forecasting** – Robust ML for forecasting  
 - **Efficient & Reliable AI** – Interpretable, uncertainty-aware models  
-- **Energy & Sustainability** – Data-driven optimization for renewable communities  
 
 ---
 
