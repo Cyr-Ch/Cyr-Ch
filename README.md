@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Cyrine Chaabani
 
 🎓 **AI Researcher & Entrepreneur** working at the intersection of **Machine Learning**, **Decision Intelligence**, and **Energy Systems**.  
-Currently building intelligent optimization models for **microgrids** and **energy trading**, and developing **foundational decision models** for dynamic environments.
+Currently building intelligent optimization models for **microgrids** and **energy trading**, and developing **foundational decision models** for dynamic environments.  
+
+🌍 Actively collaborating with the **Young AI Leaders program** under the **United Nations ITU’s AI for Good initiative**, leading projects that apply AI for **climate action**, **sustainability**, and **positive societal impact**.
+
 
 ---
 
