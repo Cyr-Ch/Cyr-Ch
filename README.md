@@ -35,9 +35,4 @@ Currently building intelligent optimization models for **microgrids** and **ener
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyr-Ch&show_icons=true&theme=default&hide_title=true&count_private=true)
-
----
-
 > “Building intelligent systems that understand, decide, and empower futures.” 🌍
