@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cyrine
 
-**AI Researcher & Founder** working at the intersection of Machine Learning, Decision Intelligence, and Energy Systems.  
+**AI Researcher & Founder** working at the intersection of Machine Learning and Decision Intelligence.  
 My research aims to leverage foundation models for solving complex decision-making tasks through specialization, reinforcement learning, and adaptive optimization. I’m broadly interested in probabilistic inference, online learning, and optimization under uncertainty.  
 
 Currently building intelligent optimization models for microgrids and energy trading, and developing foundational decision models for dynamic, real-world environments.
