@@ -19,7 +19,7 @@ Currently building intelligent optimization models for microgrids and energy tra
 
 ### 📫 Contact
 - ✉️ **General Email:** cyrine.chaabani@cdtm.com
-- - ✉️ **For requests related to Wattzo:** cyrine.chaabani@wattzo.org  
+- ✉️ **For requests related to Wattzo:** cyrine.chaabani@wattzo.org  
 - 💡 **Open to**: research collaborations, open-source contributions, AI consulting services and PhD opportunities in **ML & Decision Intelligence**  
 
 ---
