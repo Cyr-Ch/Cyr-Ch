@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Cyrine
-**AI Researcher & Founder** working at the intersection of foundation models and decision intelligence.
+**AI Engineer** working at the intersection of foundation models and decision intelligence.
 
 I build large industrial foundation models at BMW for CAD/CAE, and study how to build AI systems that can reason reliably in high-stakes, regulated environments. My broader research interests sit at the intersection of foundation models, world models, agentic systems and evaluation rigor for AI in domains where decisions have real consequences.
 
